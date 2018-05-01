@@ -7,11 +7,11 @@ framework7+react 框架示例
   git clone git@github.com:duanwenjian/framework7-react.git
 ```
 * 安装依赖
-   ```javaScript
+```javaScript
    npm install
-   ```
+```
 * 启动
-   ```javaScript
+```javaScript
    npm run dev
-   ```
+```
   
